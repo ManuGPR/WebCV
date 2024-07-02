@@ -3,7 +3,7 @@ import { Timeline } from "flowbite-react";
 const Experiencia = () => {
   return (
     <div className='min-h-[70vh] mt-12'>
-      <Timeline className='w-1/2 m-auto'>
+      <Timeline className='md:w-1/2 w-[95vw] m-auto'>
         <Timeline.Item>
           <Timeline.Point />
           <Timeline.Content>
