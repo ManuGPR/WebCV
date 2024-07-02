@@ -1,4 +1,3 @@
-import React from 'react'
 import { Card, Badge } from "flowbite-react";
 import { SiSqlite, SiMicrosoftexcel, SiMicrosoftword, SiJupyter } from "react-icons/si";
 import { TbBrandJavascript, TbBrandTypescript } from "react-icons/tb";

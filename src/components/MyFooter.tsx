@@ -1,7 +1,7 @@
 import { BsLinkedin, BsGithub } from "react-icons/bs";
 import { MdOutlineEmail } from "react-icons/md";
 import { Footer } from "flowbite-react";
-import React from 'react'
+
 
 const MyFooter = () => {
   return (

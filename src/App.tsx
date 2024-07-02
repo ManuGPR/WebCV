@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import {Flowbite} from "flowbite-react";
 
 import './App.css';

@@ -1,5 +1,4 @@
-import React from 'react'
-import { Card, Badge } from "flowbite-react";
+import { Card } from "flowbite-react";
 
 const Proyectos = () => {
   return (

@@ -1,5 +1,4 @@
-import React from 'react'
-import { Button, Timeline } from "flowbite-react";
+import { Timeline } from "flowbite-react";
 
 const Experiencia = () => {
   return (

@@ -17,9 +17,3 @@ npm run dev
 ```
 
 Then, open the link to the localhost page.
-
-## Preview
-
-Just some quick snapshots of the page:
-
-![alt text](image.png)
