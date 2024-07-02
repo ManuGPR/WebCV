@@ -7,7 +7,7 @@ const customTheme: CustomFlowbiteTheme = {
     "tablist": {
       "base": "grid grid-cols-4 mt-2",
       "tabitem": {
-        "base": "flex items-center gap-1 justify-center md:text-lg text-sm md:p-2 p-1",
+        "base": "flex items-center gap-1 justify-center md:text-lg text-xs md:p-2 p-1",
         "variant": {
           "default": {
             "base": "",
@@ -17,6 +17,7 @@ const customTheme: CustomFlowbiteTheme = {
             }
           },
         },
+        "icon": "h-5 w-5"
       }
     },
   },

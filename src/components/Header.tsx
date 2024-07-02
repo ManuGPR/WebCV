@@ -9,7 +9,7 @@ export const Header = () => {
             <h1 className='text-white lg:text-4xl md:text-3xl text-md'>
                 Manuel Gómez-Plana Rodríguez
             </h1>
-            <p className='text-white lg:text-2xl md:text-xl text-sm'>
+            <p className='text-white lg:text-2xl md:text-xl text-xs'>
                 Estudiante de Ingeniería Informática en la UC3M
             </p>
         </div>
