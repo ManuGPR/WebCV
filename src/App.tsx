@@ -1,5 +1,6 @@
 import {Flowbite} from "flowbite-react";
-
+import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Analytics } from "@vercel/analytics/react";
 import './App.css';
 import Header from "./components/Header.tsx";
 import customTheme from './customTheme';
@@ -14,6 +15,8 @@ function App() {
         <Header />
         <MenuTabs />
         <MyFooter />
+        <Analytics />
+        <SpeedInsights />
       </Flowbite>
     </>
   )
