@@ -22,7 +22,7 @@ const SobreMi = () => {
                 Mis intereses dentro del mundo de la informática son amplios, ya que me llama la atención
                 el desarrollo de software y la optimización de sistemas, así como el desarrollo de interfaces.
                 <br></br><br></br>
-                Actualmente, me encuentro en búsqueda de prácticas para realizar mientras termino el grado, el cual
+                En este momento, me encuentro en búsqueda de prácticas para realizar mientras termino el grado, el cual
                 es mi objetivo principal. 
             </p>
         </div>
