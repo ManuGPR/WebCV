@@ -34,9 +34,9 @@ const Proyectos = () => {
               Página web realizada para la delegación de estudiantes de la EPS de la UC3M.
               Cuenta con autenticación de usuario, frontend hecho en Svelte TS y backend en C++.
               <br /><br />
-              <a className='text-blue-500 underline' href='https://taquillas.astrak.es/'>Accede aquí</a>
+              <a className='text-blue-500 underline' href='https://servicios-dele.uc3m.es/'>Accede aquí</a>
             </p>
-            <a className='p-2' href="https://taquillas.astrak.es/">
+            <a className='p-2' href="https://servicios-dele.uc3m.es/">
               <div className="border-blue-500 border-2">
                 <img src='/DeleWeb.png'></img>
               </div>
