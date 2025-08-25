@@ -7,6 +7,7 @@ import { BiLogoCPlusPlus } from "react-icons/bi";
 import { IoLogoNodejs } from "react-icons/io5";
 import { ImHtmlFive } from "react-icons/im";
 import { BsGithub } from "react-icons/bs";
+import { FaDocker } from "react-icons/fa";
 
 const SobreMi = () => {
   return (
@@ -18,12 +19,10 @@ const SobreMi = () => {
             </h3>
             <div className='border-b-2 border-blue-200 mt-4'></div>
             <p className='text-black md:text-xl text-sm mt-4 text-justify'>
-                Soy un estudiante de Ingeniería Informática, actualmente matriculado en el 4º curso. 
+                Soy un estudiante de Ingeniería Informática, actualmente matriculado en el Máster Universitario en Ciencia Y tecnología Informática de la UC3M. 
                 Mis intereses dentro del mundo de la informática son amplios, ya que me llama la atención
                 el desarrollo de software y la optimización de sistemas, así como el desarrollo de interfaces.
                 <br></br><br></br>
-                En este momento, me encuentro en búsqueda de prácticas para realizar mientras termino el grado, el cual
-                es mi objetivo principal. 
             </p>
         </div>
       </Card>
@@ -46,6 +45,7 @@ const SobreMi = () => {
             <Badge className='gap-2 md: text-lg text-md font-semibold p-1 rounded-xl bg-blue-600 text-white' icon={SiMicrosoftword}>Word</Badge>
             <Badge className='gap-2 md: text-lg text-md font-semibold p-1 rounded-xl bg-[#da5f18] text-white' icon={SiJupyter}>Jupyter Notebook</Badge>
             <Badge className='gap-2 md: text-lg text-md font-semibold p-1 rounded-xl bg-black text-white' icon={FaLinux}>Linux y Unix</Badge>
+            <Badge className='gap-2 md: text-lg text-md font-semibold p-1 rounded-xl bg-blue text-white' icon={FaDocker}>Docker</Badge>
             
         </div>
       </div>

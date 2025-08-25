@@ -7,11 +7,24 @@ const Experiencia = () => {
         <Timeline.Item>
           <Timeline.Point />
           <Timeline.Content>
+            <Timeline.Time>Febrero 2025 - Julio 2025</Timeline.Time>
+            <Timeline.Title>Empleado en prácticas - Ormazabal</Timeline.Title>
+            <Timeline.Body>
+              Empleado en prácticas en la empresa Ormazabal. Principalmente ocupado con el desarrollo
+              de componentes de una plataforma IoT orientada a la gestión inteligente de un centro de 
+              transformación. Aquí obtuve experiencia con tecnologías como MQTT o Docker, y con
+              protocolos de comunicación como IEC-104.
+            </Timeline.Body>
+          </Timeline.Content>
+        </Timeline.Item>
+        <Timeline.Item>
+          <Timeline.Point />
+          <Timeline.Content>
             <Timeline.Time>Enero 2023 - Actualidad</Timeline.Time>
             <Timeline.Title>Miembro de la CTS - Delegación EPS</Timeline.Title>
             <Timeline.Body>
               Miembro de la Comisión de Tecnología y Servicios (CTS) de la delegación de la Escuela
-              Politécnica Superior de la UC3m.Encargado de ayudar en la programación de los servicios 
+              Politécnica Superior de la UC3m. Encargado de ayudar en la programación de los servicios 
               relacionados con la tecnología de la delegación de estudiantes, entre ellos, una página 
               web con una parte de reserva de taquillas integrada.
             </Timeline.Body>

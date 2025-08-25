@@ -26,7 +26,7 @@ const Proyectos = () => {
       <Card className='lg:max-w-[65vw] max-w-[80vw] mt-4'>
         <div className=''>
           <h3 className='text-blue-500 font-bold md:text-3xl text-xl'>
-            Página web delegación - Prerelease
+            Página web delegación 
           </h3>
           <div className='border-b-2 border-blue-200 mt-4'></div>
           <div className='grid md:grid-cols-2 grid-cols-1 place-items-center'>
