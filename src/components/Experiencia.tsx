@@ -2,21 +2,11 @@ import { Timeline } from "flowbite-react";
 
 const Experiencia = () => {
   return (
-    <div className='min-h-[70vh] mt-12'>
+    <div className='min-h-[70vh] mt-12 mb-6'>
+    
+      <h1 className="text-center mb-12 text-3xl text-white font-bold bg-blue-500 py-4"> Experiencia Laboral</h1>
+
       <Timeline className='md:w-1/2 w-[95vw] m-auto'>
-        <Timeline.Item>
-          <Timeline.Point />
-          <Timeline.Content>
-            <Timeline.Time>Enero 2023 - Actualidad</Timeline.Time>
-            <Timeline.Title>Miembro de la CTS - Delegación EPS</Timeline.Title>
-            <Timeline.Body>
-              Miembro de la Comisión de Tecnología y Servicios (CTS) de la delegación de la Escuela
-              Politécnica Superior de la UC3m. Encargado de ayudar en la programación de los servicios 
-              relacionados con la tecnología de la delegación de estudiantes, entre ellos, una página 
-              web con una parte de reserva de taquillas integrada.
-            </Timeline.Body>
-          </Timeline.Content>
-        </Timeline.Item>
         <Timeline.Item>
           <Timeline.Point />
           <Timeline.Content>
@@ -30,10 +20,28 @@ const Experiencia = () => {
             </Timeline.Body>
           </Timeline.Content>
         </Timeline.Item>
+      </Timeline>
+
+      <h1 className="text-center mb-12 text-3xl text-white font-bold bg-blue-500 py-4"> Otras Experiencias </h1>
+
+      <Timeline className='md:w-1/2 w-[95vw] m-auto'>
+        <Timeline.Item>
+          <Timeline.Point />
+          <Timeline.Content>
+            <Timeline.Time>Enero 2023 - Septiembre 2026</Timeline.Time>
+            <Timeline.Title>Miembro de la CTS - Delegación EPS</Timeline.Title>
+            <Timeline.Body>
+              Miembro de la Comisión de Tecnología y Servicios (CTS) de la delegación de la Escuela
+              Politécnica Superior de la UC3m. Encargado de ayudar en la programación de los servicios 
+              relacionados con la tecnología de la delegación de estudiantes, entre ellos, una página 
+              web con una parte de reserva de taquillas integrada.
+            </Timeline.Body>
+          </Timeline.Content>
+        </Timeline.Item>
         <Timeline.Item>
           <Timeline.Point />
             <Timeline.Content>
-              <Timeline.Time>Octubre 2021 - Actualidad</Timeline.Time>
+              <Timeline.Time>Octubre 2021 - Septiembre 2025</Timeline.Time>
               <Timeline.Title>Delegado de titulación - Delegacion EPS</Timeline.Title>
               <Timeline.Body>
                 Delegado de titulación del grado de Ingeniería Informática en la UC3M. Encargado de la
